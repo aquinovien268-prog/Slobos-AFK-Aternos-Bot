@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "FracturedSMP-SMP5.aternos.me",
+    "port": 11762,
     "version": "",
     "try-creative": false
   },
